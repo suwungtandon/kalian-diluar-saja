@@ -7,7 +7,7 @@ const Footer = () => (
       <p>
         Powered by{" "}
         <a href="https://suwung-inc.github.io" target="blank">
-          Hary.fun
+          TRF
         </a>{" "}
         | Suwung.Inc | Allrights Reserved @ 2020
       </p>

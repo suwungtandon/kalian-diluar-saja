@@ -6,10 +6,10 @@ const Footer = () => (
     <footer className="footer mt-2 mb-4">
       <p>
         Powered by{" "}
-        <a href="https://hary.fun" target="blank">
+        <a href="https://suwung-inc.github.io" target="blank">
           Hary.fun
         </a>{" "}
-        | Allrights Reserved @ 2020
+        | Suwung.Inc | Allrights Reserved @ 2020
       </p>
       <p>
         Sumber di dapat dari{" "}
